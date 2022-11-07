@@ -1,12 +1,8 @@
 ---
 title: Runling Wu
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,6 +42,3 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
