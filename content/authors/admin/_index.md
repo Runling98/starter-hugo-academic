@@ -1,48 +1,40 @@
 ---
 title: Runling Wu
 role: Master in Economics
+avatar_filename: img_7734.jpg
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Cedars11717983
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Runling98
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/runling-w-720496195/
 organizations:
   - name: Duke University
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.A. in Economics
+      institution: Duke University
+      year: ""
+    - course: B.A. in Economics and Mathematics
+      institution: University of Wisconsin-Madison
+      year: 2021
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: rwu72@wisc.edu
+email: runling.wu@duke.edu
 ---
 Welcome!
 
