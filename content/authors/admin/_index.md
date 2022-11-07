@@ -1,8 +1,11 @@
 ---
 title: Runling Wu
-role: Professor of Artificial Intelligence
+role: Master in Economics
 bio: ""
-interests: []
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,8 +26,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Duke University
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,5 +42,10 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: rwu72@wisc.edu
 ---
+Welcome!
+
+I am a second-year Master's student in Economics at Duke University. 
+
+My research focuses on labor economics.
